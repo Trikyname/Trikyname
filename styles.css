@@ -73,7 +73,7 @@ p {
 }
 
 .post-container:nth-child(even){
-  background-color: gray;
+  background-color: lightgray;
 }
 
 
